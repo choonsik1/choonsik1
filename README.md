@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Pac-Man contributions](https://raw.githubusercontent.com/choonsik1/choonsik1/output/pacman.svg)
+//![Pac-Man contributions](https://raw.githubusercontent.com/choonsik1/choonsik1/output/pacman.svg)
+![Dog contributions](https://raw.githubusercontent.com/choonsik1/choonsik1/output/pacman.svg?v=2)
